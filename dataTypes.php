@@ -39,10 +39,12 @@ echo var_dump($arr);
 echo "<br>";
 ?>
 
+
 <!-- Object -->
 <!-- <?php
         // $obj=new User();
         ?> -->
+
 
 <!-- Resources -->
 <?php
