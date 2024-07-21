@@ -1,5 +1,5 @@
 <?php
-$arr = ["i" => 1, 2, 3, 4];
+$arr = [ 1, 2, 3, 4];
 
 print_r($arr);
 echo "<br>";
@@ -30,6 +30,10 @@ echo "<br>";
 array_pop($arr);
 print_r($arr);
 echo "<br>";
-
+echo "<br>";
+echo "<br>";
+echo "<br>";
 //remove multiple elements from array
+array_splice($arr,-3);
+print_r($arr);
 ?>
