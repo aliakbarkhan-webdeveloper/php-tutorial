@@ -1,6 +1,7 @@
 <?php
-$arr=[1,2,3,4];
+$arr=["i"=>1,2,3,4];
 
- echo  $arr;
+
+ print_r($arr);
 
 ?>
