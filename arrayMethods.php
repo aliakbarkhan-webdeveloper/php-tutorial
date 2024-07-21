@@ -16,5 +16,20 @@ echo "<br>";
 array_push($arr, "pushed_4");
 print_r($arr);
 
+//Pop()
+echo "<br>";
+array_pop($arr);
+print_r($arr);
+echo "<br>";
+array_pop($arr);
+print_r($arr);
+echo "<br>";
+array_pop($arr);
+print_r($arr);
+echo "<br>";
+array_pop($arr);
+print_r($arr);
+echo "<br>";
 
+//remove multiple elements from array
 ?>
